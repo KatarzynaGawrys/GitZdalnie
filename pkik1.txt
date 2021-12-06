@@ -1,1 +1,2 @@
 zmiana na galezi prosta wersja
+zmiana na galezi niescalona do wyslania na serwer zdalny
